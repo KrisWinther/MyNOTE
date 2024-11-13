@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">MyNOTE</string>
+    <string name="Nazvanie">Название</string>
+    <string name="EnText">Введите текст</string>
+    <string name="Save">Сохранить</string>
+    <string name="back">Назад</string>
+    <string name="nazvanie">Название</string>
+    <string name="description">Описание</string>
+    <string name="saving">Сохранить</string>
+    <string name="mynote">MyNOTE</string>
+    <string name="add">Добавить</string>
+    <string name="backA">Назад</string>
+    <string name="TestMessage">Пример сообщения.</string>
+    <string name="TestDate">26 сентября 2024 года</string>
+    <string name="plus">Добавить +</string>
+    <string name="deliter">Удалить</string>
+    <string name="updating">Обновить</string>
+    <string name="inputmail">Введите эл. почту</string>
+    <string name="inputpassword">Введите пароль</string>
+    <string name="sin">Войти</string>
+    <string name="welcome">Добро пожаловать!</string>
+</resources>
